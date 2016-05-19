@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+}
+#urlHolder{
+	padding-top: 5px;
+}
+#resultHolder{
+	text-align: center;
+}
+#vidURL{
+	width: 500px;
+}
+.row{
+	margin-top:25px;
+}
